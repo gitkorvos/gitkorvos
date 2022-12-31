@@ -29,7 +29,6 @@ Technology I have used and have experience with
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-What I've been up to on Github.
 ![](https://github-readme-stats.vercel.app/api?username=gitkorvos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitkorvos&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkorvos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
